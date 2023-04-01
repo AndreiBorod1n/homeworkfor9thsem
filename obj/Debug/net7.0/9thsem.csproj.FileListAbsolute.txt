@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\bin\Debug\net7.0\9thsem.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\bin\Debug\net7.0\9thsem.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\bin\Debug\net7.0\9thsem.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\bin\Debug\net7.0\9thsem.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\bin\Debug\net7.0\9thsem.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\refint\9thsem.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\9thsem.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\9thsem\obj\Debug\net7.0\ref\9thsem.dll
